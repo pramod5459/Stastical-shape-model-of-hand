@@ -1,1 +1,1 @@
-# practice
+# stastical shape model of hand
